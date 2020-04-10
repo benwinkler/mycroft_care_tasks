@@ -46,7 +46,7 @@ class CareReminder(MycroftSkill):
          for task in self.tasks:
             answ_task_done = self.get_response(task["description"] + ", hast du das bereits erledigt?")  
             if 'ja' in answ_task_done:
-                self.speak('Gut, ich enterne diese Erinnerung von deiner Liste!')
+                self.speak('Gut, ich entferne diese Erinnerung von deiner Liste!')
                 # Send Request to backend
                 done_url = f'{self.care_api_uri}care/tasks/{task["id"]}/done'
                 # Log Output

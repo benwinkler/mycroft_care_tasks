@@ -1,4 +1,4 @@
-# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/seedling.svg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/> Care-E Speeh Assistant Task Skill
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/seedling.svg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/> Care-E Speech Assistant Task Skill
 Task interaction between Backend and Users
 
 ## About
